@@ -1,5 +1,4 @@
 <?php
-
 $name = "Alex";
 $Name = "Cris";
 $NAME = "Elene";
